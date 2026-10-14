@@ -1,0 +1,7 @@
+{
+  "name": "aurelia-athletic-club-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Aurelia Athletic Club premium fitness portfolio with Netlify Functions lead backend",
+  "dependencies": { "@netlify/blobs": "^9.0.0" }
+}
